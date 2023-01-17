@@ -8,7 +8,7 @@
 
 <p><img align="left" height="180" display-inline-block src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibulhasan65&show_icons=true&locale=en&layout=compact" alt="rakibulhasan65" /></p>
 
-<p agign="center">&nbsp;<img align="center" width="200" src="https://github-readme-stats.vercel.app/api?username=rakibulhasan65&show_icons=true&locale=en" alt="rakibulhasan65" /></p>
+<p agign="center">&nbsp;<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=rakibulhasan65&show_icons=true&locale=en" alt="rakibulhasan65" /></p>
 
 <p align="center">I’m currently working on [Protfolio](https://github.com/rakibulhasan65/My-Portfolio/tree/master/My-Portfolio)</p>
 
