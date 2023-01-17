@@ -6,7 +6,7 @@
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media.licdn.com/dms/image/D5616AQHn3FMJ9bMAkw/profile-displaybackgroundimage-shrink_350_1400/0/1673938397763?e=1679529600&v=beta&t=7SIuk37SX2SssYL-_BgX5aY9xENTIk-4X3c4pDGO9PI" alt="rakibulhasan65" /></a> </p>
 
 
-<p><img align="left" height="800" width="600" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibulhasan65&show_icons=true&locale=en&layout=compact" alt="rakibulhasan65" /></p>
+<p><img align="left" height="200" width="600" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibulhasan65&show_icons=true&locale=en&layout=compact" alt="rakibulhasan65" /></p>
 
 <p agign="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibulhasan65&show_icons=true&locale=en" alt="rakibulhasan65" /></p>
 
