@@ -5,15 +5,14 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://media.licdn.com/dms/image/D5616AQHn3FMJ9bMAkw/profile-displaybackgroundimage-shrink_350_1400/0/1673938397763?e=1679529600&v=beta&t=7SIuk37SX2SssYL-_BgX5aY9xENTIk-4X3c4pDGO9PI" alt="rakibulhasan65" /></a> </p>
 
-- 🔭 I’m currently working on [Protfolio](https://github.com/rakibulhasan65/My-Portfolio/tree/master/My-Portfolio)
+<p align="center">I’m currently working on [Protfolio](https://github.com/rakibulhasan65/My-Portfolio/tree/master/My-Portfolio)</p>
 
-- 🌱 I’m currently learning **Laravel With Vue.js**
+<p align="center">I’m currently learning **Laravel With Vue.js**</p>
+<p align="center">All of my projects are available at [https://github.com/rakibulhasan65/My-Portfolio/tree/master/My-Portfolio](https://github.com/rakibulhasan65/My-Portfolio/tree/master/My-Portfolio)</P>
 
-- 👨‍💻 All of my projects are available at [https://github.com/rakibulhasan65/My-Portfolio/tree/master/My-Portfolio](https://github.com/rakibulhasan65/My-Portfolio/tree/master/My-Portfolio)
-
-- 💬 Ask me about **Expert in Web application PHP With Laravel Framework| Javascript | jQuery | Ajax | REST API | API Making**
-
-- 📫 How to reach me **rakibulhasan5665@gmail.com**
+<p align="center">Ask me about **Expert in Web application PHP With Laravel Framework| Javascript | jQuery | Ajax | REST API | API Making**
+</p>
+<p align="center">How to reach me **rakibulhasan5665@gmail.com**</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -30,5 +29,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibulhasan65&show_icons=true&locale=en&layout=compact" alt="rakibulhasan65" /></p>
 
-<p class="d-block">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibulhasan65&show_icons=true&locale=en" alt="rakibulhasan65" /></p>
+<p agign="right">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rakibulhasan65&show_icons=true&locale=en" alt="rakibulhasan65" /></p>
 
