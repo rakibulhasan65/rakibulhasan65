@@ -1,9 +1,7 @@
-(https://media.licdn.com/dms/image/D5616AQHn3FMJ9bMAkw/profile-displaybackgroundimage-shrink_350_1400/0/1673938397763?e=1679529600&v=beta&t=7SIuk37SX2SssYL-_BgX5aY9xENTIk-4X3c4pDGO9PI)
-
-
 ### Hi there 👋, my name is Md Rakibul Hasan
 #### Expert in Web application PHP With Laravel Framework| Javascript | jQuery | Ajax | REST API | API Making
-![Expert in Web application PHP With Laravel Framework| Javascript | jQuery | Ajax | REST API | API Making]
+![Expert in Web application PHP With Laravel Framework| Javascript | jQuery | Ajax | REST API | API Making](https://media.licdn.com/dms/image/D5616AQHn3FMJ9bMAkw/profile-displaybackgroundimage-shrink_350_1400/0/1673938397763?e=1679529600&v=beta&t=7SIuk37SX2SssYL-_BgX5aY9xENTIk-4X3c4pDGO9PI)
+
 Hi, I am Md. Md Rakibul Hasan is a professional web designer & Web backend developer with 2+ more years of experience with over 5+ Orders completed on Fiverr and has been serving the Fiverr community since 2018. Our codes are hand-typed, well-documented, SEO-friendly and w3c validated. Each site we develop is using the latest development principles and techniques to meet modern web standards. We specialize in HTML5, CSS/CSS3, BOOTSTRAP, JAVASCRIPT/JQUERY/AJAX/API, and PHP/Laravel.
 
 Skills: Laravel / PHP / jQuery / Ajax / JS / HTML / CSS
