@@ -1,12 +1,11 @@
 <h1 align="center">Hi 👋 , I'm Md Rakibul Hasan</h1>
 <h3 align="center">I'm a Backend Developer for PHP Laravel from Bangladesh.</h3>
 <div align="center"> 
-<p><img align="right" height="200" width="340" display-inline-block src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibulhasan65&show_icons=true&locale=en&layout=compact" alt="rakibulhasan65" /></p>
-<p>&nbsp;<img align="center" height="200" width="410" src="https://github-readme-stats.vercel.app/api?username=rakibulhasan65&show_icons=true&locale=en" alt="rakibulhasan65" /></p>
+<!-- <p><img align="right" height="200" width="340" display-inline-block src="https://github-readme-stats.vercel.app/api/top-langs?username=rakibulhasan65&show_icons=true&locale=en&layout=compact" alt="rakibulhasan65" /></p>
+  
+<p>&nbsp;<img align="center" height="200" width="410" src="https://github-readme-stats.vercel.app/api?username=rakibulhasan65&show_icons=true&locale=en" alt="rakibulhasan65" /></p> -->
 </div>
-
 <p align="center">I’m currently working on [Protfolio](https://github.com/rakibulhasan65/My-Portfolio/tree/master/My-Portfolio)</p>
-
 <h5 align="center">I’m currently learning **Laravel With Vue.js**</h5>
 <p align="center">All of my projects are available at [https://github.com/rakibulhasan65/My-Portfolio/tree/master/My-Portfolio](https://github.com/rakibulhasan65/My-Portfolio/tree/master/My-Portfolio)</P>
 
