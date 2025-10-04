@@ -15,7 +15,16 @@
 
 <p align="center">All of my projects are available at <a href="https://www.dodobazar.com">dodobazar</a>, <a href="https://blumenit.com">blumenit</a> </p>
 
-<h5 align="center">Ask me about <b>Expert in Web application PHP With Laravel Framework | Javascript | jQuery | Ajax | REST API | API Making</b></h5>
+<h5 align="center">
+  Ask me about <br>
+  <b>
+    Expert in Web Application Development <br>
+    PHP (Laravel Framework) | Django | FastAPI <br>
+    JavaScript | jQuery | Ajax <br>
+    REST API Design & Development
+  </b>
+</h5>
+
 
 <p align="center">How to reach me <b>rakibulhasan5665@gmail.com</b></p>
 
