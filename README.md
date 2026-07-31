@@ -1,11 +1,23 @@
 <h1 align="center">Hi 👋, I'm Md Rakibul Hasan</h1>
 
 <h3 align="center">
-Backend Engineer | Laravel • FastAPI • Django • DevOps
+Backend Engineer | Laravel • FastAPI • Django • DevOps • AI Automation
 </h3>
 
 <p align="center">
-Passionate about building scalable web applications, AI automation, and server infrastructure.
+Passionate about building scalable web applications, REST APIs, AI automation, and cloud-based backend solutions.
+</p>
+
+<p align="center">
+  🔭 Currently working on <a href="https://www.dodobazar.com">DoDoBazar</a>
+</p>
+
+<p align="center">
+  🌱 Currently learning <b>Redis, Queue Systems, Microservices & AI Automation</b>
+</p>
+
+<p align="center">
+  📫 Reach me at <b>rakibulhasan5665@gmail.com</b>
 </p>
 
 ---
@@ -13,25 +25,54 @@ Passionate about building scalable web applications, AI automation, and server i
 ## 🚀 About Me
 
 - 💼 Backend Developer from Bangladesh
-- 🔭 Working with **Laravel, FastAPI & Django**
-- 🤖 Building **AI PDF Automation** using FastAPI
-- 🎥 Experienced in **Jitsi Meet** & **BigBlueButton**
-- 🐳 Interested in **Docker, Redis, PostgreSQL & Linux**
-- 🌱 Learning **Microservices & Queue Systems**
+- 🔥 Specialized in **Laravel, FastAPI & Django**
+- 🤖 Building **AI PDF Auto Fill** systems with FastAPI
+- 🎥 Experienced with **Jitsi Meet** & **BigBlueButton**
+- 🐳 Working with **Docker, Linux, Nginx & PostgreSQL**
+- ⚡ Passionate about scalable backend architecture and automation
 
 ---
 
-## 🛠️ Tech Stack
+## 💻 Tech Stack
 
-**Backend:** Laravel, FastAPI, Django, PHP, Python
+**Backend**
 
-**Frontend:** Vue.js, JavaScript, Tailwind CSS
+- PHP (Laravel)
+- Python (FastAPI, Django)
+- REST API Development
 
-**Database:** PostgreSQL, MySQL, Redis
+**Frontend**
 
-**DevOps:** Docker, Linux, Nginx, Git
+- Vue.js
+- JavaScript
+- jQuery
+- Ajax
+- Tailwind CSS
+- Bootstrap
 
-**Others:** REST API, AI Automation, Jitsi Meet, BigBlueButton
+**Database**
+
+- PostgreSQL
+- MySQL
+- Redis
+
+**DevOps & Tools**
+
+- Docker
+- Linux
+- Git
+- Nginx
+- Apache
+- Postman
+
+**Specialties**
+
+- AI PDF Automation
+- OpenAI API
+- Jitsi Meet
+- BigBlueButton
+- Server Deployment
+- REST API Design
 
 ---
 
@@ -46,9 +87,14 @@ Passionate about building scalable web applications, AI automation, and server i
 
 ## 🌐 Connect With Me
 
-- 💼 LinkedIn: https://www.linkedin.com/in/md-rakibul-hasan-655b701b9/
-- 📧 Email: rakibulhasan5665@gmail.com
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-rakibul-hasan-655b701b9/">LinkedIn</a> •
+  <a href="https://twitter.com/riponkh96494559">Twitter</a> •
+  <a href="https://www.facebook.com/profile.php?id=100007443636845">Facebook</a> •
+  <a href="https://www.instagram.com/riponkhan5665/">Instagram</a> •
+  <a href="https://www.hackerrank.com/rakibulhasan5665">HackerRank</a>
+</p>
 
 ---
 
-⭐ **Backend Engineer | AI Automation | DevOps | Laravel | FastAPI**
+⭐ **Backend Engineer | Laravel | FastAPI | Django | PostgreSQL | Docker | DevOps | AI Automation | Jitsi | BigBlueButton**
